@@ -1,0 +1,14 @@
+layout_spectrum: 0.25012330268509686
+typography_spectrum: 0.9689454697072506
+color:
+  brandStrength: 0.9326954244170338
+  lightness: 0.7300398212391883
+  saturation: 0.6297959201037884
+  rhythmicContrast: 0.33725846838206053
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: data diary
